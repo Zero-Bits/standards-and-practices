@@ -91,6 +91,7 @@ Format:
 | Bryce Guinta | [Azrathud](https://github.com/Azrathud) ||
 | Carden Bagwell | [CardenB] (https://github.com/CardenB) | Undergrad Computer Engineer with knowledge of Java, C++, C#, and Python. Looking for experience with open source and extracurricular projects. |
 | Chance Rosenthal | [TheChance](https://github.com/TheChance) | I'm an undergrad working on an associates to transfer. C++, interested in Ruby. |
+| Charles Boehme | [Zero-Bits](https://github.com/Zero-Bita) | I am a young teen with experience in Rbx.Lua, and Python. looking to gain experience with Python, Java, and C#, as well as teamwork. |
 | Charlie Andrews | [sir-charles804](https://github.com/sir-charles804) | I am a university student. Have experience in Python, Javascript, and C# |
 | Chathuranga de Silva | [chatz05](https://github.com/chatz05) | Graduate student. Objective-C , Java background. Interested in learn git and github |
 | Christopher Mason | [kyzen](https://github.com/kyzen) | C background, interested in branching out to higher level languages especially C++ and Python |
